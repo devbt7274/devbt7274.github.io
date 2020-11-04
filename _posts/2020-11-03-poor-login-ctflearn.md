@@ -6,7 +6,7 @@ categories: [Blogging, Writeup, Binary]
 tags: [easy,heap,binary,ctf]
 toc: false
 ---
-[Original Problem](https://ctflearn.com/challenge/1013/)<br>
+[Original Problem](https://ctflearn.com/challenge/1013)<br>
 If you download the file and unzip it, you get a folder named pwn_login, which contains 2 files.
 ![Login](../../assets/img/poor_login_ctflearn/1.png){: width="720" class="normal"}<br>
 Okay, so I have an executable and the source code of the program that if running on the server. Upon checking the `login` with the `file` command I get the output -
